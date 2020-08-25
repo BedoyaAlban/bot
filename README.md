@@ -1,5 +1,5 @@
 # Bot
-You can use this on Discord -> # www.discord.com
+You can use this on Discord -> www.discord.com
 
 # How to use
 
